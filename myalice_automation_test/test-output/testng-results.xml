@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-24T12:28:30 BDT" name="Default suite" finished-at="2024-08-24T12:28:44 BDT" duration-ms="13885">
+    <groups>
+    </groups>
+    <test started-at="2024-08-24T12:28:30 BDT" name="Default test" finished-at="2024-08-24T12:28:44 BDT" duration-ms="13885">
+      <class name="myalice_automation_test.MainClass">
+        <test-method is-config="true" signature="ExtentSetUp()[pri:0, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:30 BDT" name="ExtentSetUp" finished-at="2024-08-24T12:28:30 BDT" duration-ms="382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentSetUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:30 BDT" name="setUp" finished-at="2024-08-24T12:28:34 BDT" duration-ms="3908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LogInTest()[pri:1, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:34 BDT" name="LogInTest" finished-at="2024-08-24T12:28:35 BDT" duration-ms="645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogInTest -->
+        <test-method is-config="true" signature="tearDown1()[pri:0, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:35 BDT" name="tearDown1" finished-at="2024-08-24T12:28:35 BDT" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown1 -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:35 BDT" name="setUp" finished-at="2024-08-24T12:28:37 BDT" duration-ms="2213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Manga_Search_and_isplay()[pri:2, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:37 BDT" name="Manga_Search_and_isplay" finished-at="2024-08-24T12:28:41 BDT" duration-ms="3932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Manga_Search_and_isplay -->
+        <test-method is-config="true" signature="tearDown1()[pri:0, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:41 BDT" name="tearDown1" finished-at="2024-08-24T12:28:41 BDT" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown1 -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:41 BDT" name="setUp" finished-at="2024-08-24T12:28:43 BDT" duration-ms="1776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="MangaDetailsModal()[pri:3, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:43 BDT" name="MangaDetailsModal" finished-at="2024-08-24T12:28:44 BDT" duration-ms="572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MangaDetailsModal -->
+        <test-method is-config="true" signature="tearDown1()[pri:0, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:44 BDT" name="tearDown1" finished-at="2024-08-24T12:28:44 BDT" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown1 -->
+        <test-method is-config="true" signature="tearDwon()[pri:0, instance:myalice_automation_test.MainClass@c730b35]" started-at="2024-08-24T12:28:44 BDT" name="tearDwon" finished-at="2024-08-24T12:28:44 BDT" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDwon -->
+      </class> <!-- myalice_automation_test.MainClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
